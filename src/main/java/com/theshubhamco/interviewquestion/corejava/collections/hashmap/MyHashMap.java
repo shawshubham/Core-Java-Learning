@@ -1,4 +1,4 @@
-package com.theshubhamco.examples.datastructures.hashmap;
+package com.theshubhamco.interviewquestion.corejava.collections.hashmap;
 
 public class MyHashMap<K, V> {
 
